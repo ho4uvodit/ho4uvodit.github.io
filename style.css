@@ -2,8 +2,8 @@ body {
   font-family: sans-serif;
   line-height: 1.5;
 
-  background-color: #f9f9f9;
-  color: #333333;
+  background-color: #602997;
+  color: #ffffff;
 
   width: 980px;
   margin: 0 auto;
@@ -11,11 +11,14 @@ body {
 
 h1 {
   text-align: center;
-  font-size: 36px;
+  font-size: 54px;
   margin-bottom: 0;
 }
 
 main > h2 {
   text-align: center;
   font-size: 25px;
+}
+section > h2 {
+  color:#d065aa
 }
